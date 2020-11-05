@@ -1,0 +1,19 @@
+{
+  "name": "serverless-s3-block-public-access",
+  "version": "1.0.0",
+  "description": "Disallows creation of objects in the deployment bucket which can have public access.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huksley/serverless-s3-block-public-access.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huksley/serverless-s3-block-public-access/issues"
+  },
+  "homepage": "https://github.com/huksley/serverless-s3-block-public-access#readme"
+}
